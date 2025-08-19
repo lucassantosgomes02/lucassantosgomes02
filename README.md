@@ -1,4 +1,7 @@
 <div align="center">
+
+    <div align="center">
+  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Descrição do banner">
     <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
 </div>
 
