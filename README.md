@@ -1,7 +1,10 @@
 <div align="center">
 
     <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Descrição do banner">
+  <img src="
+
+http://googleusercontent.com/image_collection/image_retrieval/17315366459436425744
+" alt="Banner de tecnologia abstrata">
     <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
 </div>
 
