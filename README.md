@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/101893116?v=4" width="150px" alt="Avatar do Lucas">
-  <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
+    <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
 </div>
 
 ---
