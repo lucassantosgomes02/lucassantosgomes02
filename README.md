@@ -1,8 +1,6 @@
 <div align="center">
-  <a href="https://github.com/lucassantosgomes02">
-    <img src="https://avatars.githubusercontent.com/u/101893116?v=4" width="150px" alt="Avatar do Lucas">
-  </a>
-  <h1>Lucas Santos, o desenvolvedor multiplataforma 🚀</h1>
+
+  <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
 </div>
 
 ---
