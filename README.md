@@ -2,7 +2,7 @@
   <a href="https://github.com/lucassantosgomes02">
     <img src="https://avatars.githubusercontent.com/u/101893116?v=4" width="150px" alt="Avatar do Lucas">
   </a>
-  <h1>Lucas Santos, o desenvolvedor multiplataforma 🚀</h1>
+  <h1>Lucas Santos Gomes, desenvolvedor multiplataforma 🚀</h1>
 </div>
 
 ---
@@ -24,9 +24,9 @@ Olá! Sou um **estudante de Desenvolvimento de Software Multiplataforma** apaixo
 ### Fale Comigo!
 
 - 💬 **Pergunte-me sobre:** Desenvolvimento multiplataforma, desafios de compatibilidade e otimização de performance.
-- 📫 **Me encontre:** [**LinkedIn**](https://www.linkedin.com/in/seu-perfil-do-linkedin)
+- 📫 **Me encontre:** [**LinkedIn**]([https://www.linkedin.com/in/seu-perfil-do-linkedin](https://www.linkedin.com/in/lucas-gomes-188683189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - 😄 **Pronomes:** Ele/Dele
-- ⚡ **Curiosidade:** Quando não estou programando, estou provavelmente tentando solucionar um quebra-cabeça complexo ou mergulhando em um bom livro de ficção científica.
+
 
 ---
 
