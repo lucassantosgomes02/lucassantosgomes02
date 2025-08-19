@@ -1,5 +1,5 @@
 <div align="center">
-
+  <img src="https://avatars.githubusercontent.com/u/101893116?v=4" width="150px" alt="Avatar do Lucas">
   <h1>Lucas Santos Gomes, Desenvolvedor multiplataforma 🚀</h1>
 </div>
 
@@ -13,8 +13,8 @@ Olá! Sou um **estudante de Desenvolvimento de Software Multiplataforma** apaixo
 
 ### Minha Jornada Atual
 
-- 🔭 **Explorando o Futuro:** Atualmente, estou focado em aprofundar meus conhecimentos em **[insira aqui uma tecnologia principal, ex: React Native, Flutter, .NET MAUI]** e arquiteturas que garantem a portabilidade do código.
-- 🌱 **Construindo o Conhecimento:** Estou sempre em busca de novas formas de otimizar o desempenho e a usabilidade em ambientes diversos. Aprendendo sobre **[insira aqui uma tecnologia ou conceito específico, ex: GraphQL, WebAssembly, CI/CD]** para criar aplicações robustas e escaláveis.
+- 🔭 **Explorando o Futuro:** Atualmente, estou focado em aprofundar meus conhecimentos em **JavaScript** e **Python**, explorando frameworks como **React Native** e **Flutter** para construir aplicações robustas e com alta performance.
+- 🌱 **Construindo o Conhecimento:** Estou sempre em busca de novas formas de otimizar o desempenho e a usabilidade em ambientes diversos. Aprendendo sobre **arquiteturas de microserviços** e **CI/CD (Integração e Entrega Contínua)** para criar aplicações escaláveis e de fácil manutenção.
 - 👯 **Pronto para Colaborar:** Buscando oportunidades para contribuir com projetos que desafiem meus limites e me permitam aplicar meus conhecimentos em um contexto real. Adoro colaborar e aprender com outros desenvolvedores!
 
 ---
@@ -22,8 +22,7 @@ Olá! Sou um **estudante de Desenvolvimento de Software Multiplataforma** apaixo
 ### Fale Comigo!
 
 - 💬 **Pergunte-me sobre:** Desenvolvimento multiplataforma, desafios de compatibilidade e otimização de performance.
-- 📫 **Me encontre:** [**LinkedIn**]([https://www.linkedin.com/in/seu-perfil-do-linkedin](https://www.linkedin.com/in/lucas-gomes-188683189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
-- 😄 **Pronomes:** Ele/Dele
+- 📫 **Me encontre:** [**LinkedIn**](https://www.linkedin.com/in/lucas-gomes-188683189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
